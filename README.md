@@ -51,7 +51,7 @@
 |  标题  |   代码   |
 |:--------|:--------:|
 | [Accelerating gradient-based topology optimization design with dual-model neural networks](https://arxiv.org/abs/2009.06245) | - |
-| [Deep learning for topology optimization of 2D metamaterials](https://www.sciencedirect.com/science/article/pii/S026412752030633X)  <br>*accepted at ICCV’17* | - |
+| [Deep learning for topology optimization of 2D metamaterials](https://www.sciencedirect.com/science/article/pii/S026412752030633X) | - |
 | [Topology optimization of 2D structures with nonlinearities using deep learning](https://arxiv.org/abs/2002.01896) | - |
 
 ### <a name="5">生成式对抗模型</a>
@@ -60,7 +60,7 @@
 
 |  标题  |   代码   |
 |:--------|:--------:|
-| [Designing nanophotonic structures using conditional deep convolutional generative adversarial networks](Designing nanophotonic structures using conditional deep convolutional generative adversarial networks) | - |
+| [Designing nanophotonic structures using conditional deep convolutional generative adversarial networks](https://arxiv.org/abs/1903.08432) | - |
 | [Prior-Knowledge-Guided Deep-Learning-Enabled Synthesis for Broadband and Large Phase-Shift Range Metacells in Metalens Antenna](https://ieeexplore.ieee.org/document/9670640/) | - |
 
 ### <a name="6">编码-解码器模型</a>
