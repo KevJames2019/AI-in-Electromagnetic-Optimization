@@ -58,7 +58,7 @@
 
 - [回到目录](#0)
 
-|  Title  |   Code   |
+|  标题  |   代码   |
 |:--------|:--------:|
 | [Designing nanophotonic structures using conditional deep convolutional generative adversarial networks](Designing nanophotonic structures using conditional deep convolutional generative adversarial networks) | - |
 | [Prior-Knowledge-Guided Deep-Learning-Enabled Synthesis for Broadband and Large Phase-Shift Range Metacells in Metalens Antenna](https://ieeexplore.ieee.org/document/9670640/) | - |
@@ -67,8 +67,8 @@
 
 - [回到目录](#0)
 
-|  Title  |  Tags   |   Code   |
-|:--------|:--------:|:--------:|
-| [A generative machine learning-based approach for inverse design of multilayer metasurfaces](https://arxiv.org/abs/2008.02074) | - | - |
-| [A Hybrid Strategy for the Discovery and Design of Photonic Nanostructures](https://arxiv.org/ftp/arxiv/papers/1902/1902.02293.pdf) | - | - |
-| [Probabilistic representation and inverse design of metamaterials based on a deep generative model with semi-supervised learning strategy](https://arxiv.org/abs/1901.10819) | - | - |
+|  标题  |   代码   |
+|:--------|:--------:|
+| [A generative machine learning-based approach for inverse design of multilayer metasurfaces](https://arxiv.org/abs/2008.02074) | - |
+| [A Hybrid Strategy for the Discovery and Design of Photonic Nanostructures](https://arxiv.org/ftp/arxiv/papers/1902/1902.02293.pdf) | - |
+| [Probabilistic representation and inverse design of metamaterials based on a deep generative model with semi-supervised learning strategy](https://arxiv.org/abs/1901.10819) | - |
