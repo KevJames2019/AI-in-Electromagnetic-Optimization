@@ -1,48 +1,43 @@
-# 电磁优化文献仓库
+# AI in Electromagnetic Optimization
 
-### <a name="0">目录</a>
+We would like to maintain an up-to-date list of progress (papers, codes etc) made in applying AI to electromagnetic optimization, and provide a guide for some of the papers that have received wide interest.
+Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electromagnetic-Optimization/issues) to add papers.
 
-#### 主题
+## <a name="toc">Table of Contents</a>
 
-- <a href="#1">综述</a> 
+- Paper & Code
 
-- <a href="#2">预测-生成双向模型</a>
+    - <a href="#Survey">Survey</a> 
 
-- <a href="#3">循环神经网络模型</a>
+    - <a href="#tandem-model">Tandem Model</a>
 
-- <a href="#4">拓扑优化法</a>
+    - <a href="#rnn-based-model">RNN-based Model</a>
 
-- <a href="#5">生成式对抗模型</a>
+    - <a href="#4">拓扑优化法</a>
 
-- <a href="#6">编码-解码器模型</a>
+    - <a href="#5">生成式对抗模型</a>
 
-  
+    - <a href="#6">编码-解码器模型</a>
 
 
+## Paper & Code
 
-### <a name="1"> 综述</a>
+### <a name="Survey">Survey</a> [[Back to TOC](#toc)]
 
-| 标题                                                         | 代码 |
-| :----------------------------------------------------------- | :--: |
-| [Deep learning in nano-photonics inverse design and beyond](https://arxiv.org/abs/2011.12603) |  -   |
-| [Deep Learning the Electromagnetic Properties of  Metamaterials—A Comprehensive Review](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adfm.202101748) |  -   |
+ - Deep Learning in Nano-photonics: Inverse Design and Beyond `2021` `University of Toulouse` [[Paper](https://doi.org/10.1364/PRJ.415960)]
+ - Deep Learning the Electromagnetic Properties of  Metamaterials—A Comprehensive Review `2021` `Duke University` [[Paper](https://doi.org/10.1002/adfm.202101748)]
 
-### <a name="2"> 预测-生成双向模型</a>
 
+### <a name="tandem-model">Tandem Model</a> [[Back to TOC](#toc)]
+
+ - Generative Model for the Inverse Design of Metasurfaces `2018` `Georgia Institute of Technology` [[Paper](https://doi.org/10.1021/acs.nanolett.8b03171)]
+ - Deep-Learning-Enabled On-Demand Design of Chiral Metamaterials `2018` `Northeastern University` [[Paper](https://doi.org/10.1021/acsnano.8b03569)]
 - [回到目录](#0)
 
-|  标题  |   代码   |
-|:--------|:--------:|
-| [Generative model for the inverse design of metasurfaces](https://pubs.acs.org/doi/10.1021/acs.nanolett.8b03171) | - |
-| [Nano Deep-learning-enabled on-demand design of chiral metamaterials](https://web.northeastern.edu/liulab/publications/76_2018_ACS%20Nano_Deep-learning-enabled%20on-demand%20design%20of%20chiral%20metamaterials.pdf) | - |
+### <a name="rnn-based-model">RNN-based Model</a> [[Back to TOC](#toc)]
 
-### <a name="3"> 循环神经网络模型</a>
+ - Finding the optical properties of plasmonic structures by image processing using a combination of convolutional neural networks and recurrent neural networks `2019` `Pohang University of Science and Technology` [[Paper](https://doi.org/10.1038/s41378-019-0069-y)]
 
-- [回到目录](#0)
-
-| 标题                                                         | 代码 |
-| :----------------------------------------------------------- | :--: |
-| [Finding the optical properties of plasmonic structures by image processing using a combination of convolutional neural networks and recurrent neural networks ](https://www.nature.com/articles/s41378-019-0069-y) |  -   |
 
 ### <a name="4"> 拓扑优化法</a>
 
