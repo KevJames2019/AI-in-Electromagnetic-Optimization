@@ -29,25 +29,25 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
 
 ##### <a name="The Design of Surrogate Model">The Design of Surrogate Model</a> [[Back to TOC](#toc)]
 
-**DNN-based Model**
+###### **DNN-based Model**
 
  - Finding the optical properties of plasmonic structures by image processing using a combination of convolutional neural networks and recurrent neural networks `2019` `Pohang University of Science and Technology` [[Paper](https://doi.org/10.1038/s41378-019-0069-y)]
 
  - A Deep Learning Approach for Objective-Driven All-Dielectric Metasurface Design `2018` `University of Massachusetts Lowell` [[Paper](https://doi.org/10.1021/acsphotonics.9b00966)]
 
-##### **Physics-driven Model**
+###### **Physics-driven Model**
 
 - 基于机器学习的电磁场建模与设计研究 `2019` `University of Electronic Science and Technology of China` [[Paper](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CDFDLAST2020&filename=1019851830.nh)]
 - Deep learning meets nanophotonics: a generalized accurate predictor for near fields and far fields of arbitrary 3D nanostructures`2019` `University of Southampton` [[Paper](https://doi.org/10.1021/acs.nanolett.9b03971)]
 
 ##### <a name="Optimization Method">Optimization Method</a> 
 
-**Heuristic Algorithm**
+###### **Heuristic Algorithm**
 
 - Multiplexing the aperture of a metasurface: inverse design via deep-learning-forward genetic algorithm`2020` `Air Force Engineering University` [[Paper](https://www.doi.org/10.1088/1361-6463/aba64f)]
 - Photonics Inverse Design: Pairing Deep Neural Networks With Evolutionary Algorithms`2019` `Indian Institute of Technology` [[Paper](https://doi.org/10.1109/JSTQE.2019.2933796)]
 
-**Topology Optimization**
+###### **Topology Optimization**
 
 - 基于伴随敏感度分析的电磁优化方法研究 `2018` `University of Electronic Science and Technology of China` [[Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2018&filename=1018974812.nh)]
 - Accelerating gradient-based topology optimization design with dual-model artificial neural networks `2021` `The Hong Kong University of Science and Technology` [[Paper](https://www.doi.org/10.1007/s00158-020-02770-6)]
