@@ -20,14 +20,14 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
 
 ## Paper & Code
 
-### <a name="Survey">Survey</a> [[Back to TOC](#toc)]
+### <a name="Survey">Survey</a>
 
  - Deep Learning in Nano-photonics: Inverse Design and Beyond `2021` `University of Toulouse` [[Paper](https://doi.org/10.1364/PRJ.415960)]
  - Deep Learning the Electromagnetic Properties of  Metamaterials—A Comprehensive Review `2021` `Duke University` [[Paper](https://doi.org/10.1002/adfm.202101748)]
 
-### <a name="Optimization based on Surrogate Model">Optimization based on Surrogate Model</a> [[Back to TOC](#toc)]
+### <a name="Optimization based on Surrogate Model">Optimization based on Surrogate Model</a>
 
-#### <a name="The Design of Surrogate Model">The Design of Surrogate Model</a> [[Back to TOC](#toc)]
+##### <a name="The Design of Surrogate Model">The Design of Surrogate Model</a> [[Back to TOC](#toc)]
 
 **DNN-based Model**
 
@@ -35,12 +35,12 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
 
  - A Deep Learning Approach for Objective-Driven All-Dielectric Metasurface Design `2018` `University of Massachusetts Lowell` [[Paper](https://doi.org/10.1021/acsphotonics.9b00966)]
 
-**Physics-driven Model**
+##### **Physics-driven Model**
 
 - 基于机器学习的电磁场建模与设计研究 `2019` `University of Electronic Science and Technology of China` [[Paper](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CDFDLAST2020&filename=1019851830.nh)]
 - Deep learning meets nanophotonics: a generalized accurate predictor for near fields and far fields of arbitrary 3D nanostructures`2019` `University of Southampton` [[Paper](https://doi.org/10.1021/acs.nanolett.9b03971)]
 
-#### <a name="Optimization Method">Optimization Method</a> [[Back to TOC](#toc)]
+##### <a name="Optimization Method">Optimization Method</a> 
 
 **Heuristic Algorithm**
 
@@ -52,24 +52,24 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
 - 基于伴随敏感度分析的电磁优化方法研究 `2018` `University of Electronic Science and Technology of China` [[Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2018&filename=1018974812.nh)]
 - Accelerating gradient-based topology optimization design with dual-model artificial neural networks `2021` `The Hong Kong University of Science and Technology` [[Paper](https://www.doi.org/10.1007/s00158-020-02770-6)]
 
-### <a name="Optimization based on Generative Model">Optimization based on Generative Model</a> [[Back to TOC](#toc)]
+### <a name="Optimization based on Generative Model">Optimization based on Generative Model</a> 
 
-#### <a name="Tandem Model">Tandem Model</a> [[Back to TOC](#toc)]
+##### <a name="Tandem Model">Tandem Model</a> [[Back to TOC](#toc)]
 
  - Plasmonic nanostructure design and characterization via deep learning`2018` `Tel Aviv University` [[Paper](https://www.nature.com/articles/s41377-018-0060-7)]
  - Deep-learning-enabled on-demand design of chiral metamaterials`2018` `Northeastern University` [[Paper](https://www.doi.org/10.1007/s00158-020-02770-6)]
 
-#### <a name="Autoencoder">Autoencoder</a> [[Back to TOC](#toc)]
+##### <a name="Autoencoder">Autoencoder</a> [[Back to TOC](#toc)]
 
 - A generative machine learning-based approach for inverse design of multilayer metasurfaces`2021` `University of Toronto` [[Paper](https://doi.org/10.1109/TAP.2021.3060142)]
 - Machine learning–assisted global optimization of photonic devices`2021`  `Purdue University`[[Paper](https://doi.org/10.1515/nanoph-2020-0376)]
 
-#### <a name="Generative Adversarial Networks">Generative Adversarial Networks</a> [[Back to TOC](#toc)]
+##### <a name="Generative Adversarial Networks">Generative Adversarial Networks</a> [[Back to TOC](#toc)]
 
 - Designing nanophotonic structures using conditional deep convolutional generative adversarial networks`2019` `Pohang University of Science and Technology` [[Paper](https://doi.org/10.1515/nanoph-2019-0117)]
 - Free-form diffractive metagrating design based on generative adversarial networks`2019` `Stanford University` [[Paper](https://doi.org/10.1021/acsnano.9b02371))]
 
-#### <a name="Generative Adversarial Networks">Generative Adversarial Networks</a> [[Back to TOC](#toc)]
+##### <a name="Reinforcement Learning">Reinforcement Learning</a> [[Back to TOC](#toc)]
 
 - Deep Reinforcement Learning for Digital Materials Design`2019` `Stanford University` [[Paper](https://doi.org/10.1021/acsnano.9b02371)]
 - Reinforcement learning applied to metamaterial design`2021` `San Jose State University` [[Paper](https://doi.org/10.1121/10.0005545)]
