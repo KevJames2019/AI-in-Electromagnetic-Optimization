@@ -5,8 +5,7 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
 
 ## <a name="toc">Table of Contents</a>
 
-- Paper & Code
-
+- <a href="#Paper & Code">Paper & Code</a>
     - <a href="#Survey">Survey</a> 
     - <a href="#Optimization based on Surrogate Model">Optimization based on Surrogate Model</a>
       - <a href="#The Design of Surrogate Model">The Design of Surrogate Model</a>
@@ -16,9 +15,10 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
       - <a href="#Autoencoder">Autoencoder</a>
       - <a href="#Generative Adversarial Networks">Generative Adversarial Networks</a>
       - <a href="#Reinforcement Learning">Reinforcement Learning</a>
+- <a href="#Discussion">Discussion</a>
 
 
-## Paper & Code
+## <a name="Paper & Code">Paper & Code</a>
 
 ### <a name="Survey">Survey</a>
 
@@ -32,8 +32,8 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
 ###### **DNN-based Model**
 
  - Finding the optical properties of plasmonic structures by image processing using a combination of convolutional neural networks and recurrent neural networks `2019` `Pohang University of Science and Technology` [[Paper](https://doi.org/10.1038/s41378-019-0069-y)]
-
  - A Deep Learning Approach for Objective-Driven All-Dielectric Metasurface Design `2018` `University of Massachusetts Lowell` [[Paper](https://doi.org/10.1021/acsphotonics.9b00966)]
+ - Deep learning modeling approach for metasurfaces with high degrees of freedom `2020``University of Massachusetts Lowell` [[Paper](https://doi.org/10.1364/OE.401960)]
 
 ###### **Physics-driven Model**
 
@@ -74,3 +74,7 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
 - Deep Reinforcement Learning for Digital Materials Design`2019` `Stanford University` [[Paper](https://doi.org/10.1021/acsnano.9b02371)]
 - Reinforcement learning applied to metamaterial design`2021` `San Jose State University` [[Paper](https://doi.org/10.1121/10.0005545)]
 - Microwave integrated circuits design with relational induction neural network`2019` [[Paper](https://doi.org/10.48550/arXiv.1901.02069)]
+
+## <a name="Discussion">Discussion</a>
+
+[https://doi.org/10.1364/OE.401960]: 
