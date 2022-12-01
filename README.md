@@ -40,12 +40,25 @@ Please feel free to [open an issue](https://github.com/KevJames2019/AI-in-Electr
 - 基于机器学习的电磁场建模与设计研究 `2019` `University of Electronic Science and Technology of China` [[Paper](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CDFDLAST2020&filename=1019851830.nh)]
 - Deep learning meets nanophotonics: a generalized accurate predictor for near fields and far fields of arbitrary 3D nanostructures`2019` `University of Southampton` [[Paper](https://doi.org/10.1021/acs.nanolett.9b03971)]
 
+###### **Traditional Machine Learning Model**
+- Multibranch Machine Learning-Assisted
+Optimization and Its Application
+to Antenna Design`2022` `Southeast University` [[Paper](https://doi.org/10.1109/TAP.2022.3179597)]***
+
+
 ##### <a name="Optimization Method">Optimization Method</a> 
 
-###### **Heuristic Algorithm**
+###### **Offline Heuristic Algorithm**
 
 - Multiplexing the aperture of a metasurface: inverse design via deep-learning-forward genetic algorithm`2020` `Air Force Engineering University` [[Paper](https://www.doi.org/10.1088/1361-6463/aba64f)]
 - Photonics Inverse Design: Pairing Deep Neural Networks With Evolutionary Algorithms`2019` `Indian Institute of Technology` [[Paper](https://doi.org/10.1109/JSTQE.2019.2933796)]
+
+###### **Online Heuristic Algorithm**
+
+- Synthesis of Integrated Passive Components for High-Frequency RF ICs Based on Evolutionary Computation and Machine Learning Techniques`2011` `Air Force Engineering University` [[Paper](https://doi.org/10.1109/TCAD.2011.2162067)]***
+- Photonics Inverse Design: Pairing Deep Neural Networks With Evolutionary Algorithms`2019` `Indian Institute of Technology` [[Paper](https://doi.org/10.1109/JSTQE.2019.2933796)]
+
+
 
 ###### **Topology Optimization**
 
