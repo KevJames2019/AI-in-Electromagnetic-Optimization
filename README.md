@@ -82,12 +82,15 @@ to Antenna Design`2022` `Southeast University` [[Paper](https://doi.org/10.1109/
 - Designing nanophotonic structures using conditional deep convolutional generative adversarial networks`2019` `Pohang University of Science and Technology` [[Paper](https://doi.org/10.1515/nanoph-2019-0117)]
 - Free-form diffractive metagrating design based on generative adversarial networks`2019` `Stanford University` [[Paper](https://doi.org/10.1021/acsnano.9b02371))]
 - Prior-Knowledge-Guided Deep-Learning-Enabled Synthesis for Broadband and Large Phase-Shift Range Metacells in Metalens Antenna`2022`  `National University of Singapore`[[Paper](https://ieeexplore.ieee.org/document/9670640/)]
+- A Generative Machine Learning-Based Approach for Inverse Design of Multilayer Metasurfaces`2021`  `IEEE Transactions on Antennas and Propagation`[[Paper](https://arxiv.org/abs/2008.02074)]
 
 ##### <a name="Reinforcement Learning">Reinforcement Learning</a> [[Back to TOC](#toc)]
 
 - Deep Reinforcement Learning for Digital Materials Design`2019` `Stanford University` [[Paper](https://doi.org/10.1021/acsnano.9b02371)]
 - Reinforcement learning applied to metamaterial design`2021` `San Jose State University` [[Paper](https://doi.org/10.1121/10.0005545)]
 - Microwave integrated circuits design with relational induction neural network`2019` [[Paper](https://doi.org/10.48550/arXiv.1901.02069)]
+- Fully Automated Design Method Based on Reinforcement Learning and Surrogate Modelling for Antenna Array Decoupling`2022` `IEEE Transactions on Antennas and Propagation`[[Paper](https://ieeexplore.ieee.org/document/9953971)]
+- The Policy-gradient Placement and Generative Routing Neural Networks for Chip Design`2022` `Conference and Workshop on Neural Information Processing Systems`[[Paper](https://openreview.net/forum?id=uNYqDfPEDD8)]
 
 ## <a name="Discussion">Discussion</a>
 
