@@ -82,7 +82,6 @@ to Antenna Design`2022` `Southeast University` [[Paper](https://doi.org/10.1109/
 - Designing nanophotonic structures using conditional deep convolutional generative adversarial networks`2019` `Pohang University of Science and Technology` [[Paper](https://doi.org/10.1515/nanoph-2019-0117)]
 - Free-form diffractive metagrating design based on generative adversarial networks`2019` `Stanford University` [[Paper](https://doi.org/10.1021/acsnano.9b02371))]
 - Prior-Knowledge-Guided Deep-Learning-Enabled Synthesis for Broadband and Large Phase-Shift Range Metacells in Metalens Antenna`2022`  `National University of Singapore`[[Paper](https://ieeexplore.ieee.org/document/9670640/)]
-- A Generative Machine Learning-Based Approach for Inverse Design of Multilayer Metasurfaces`2021`  `IEEE Transactions on Antennas and Propagation`[[Paper](https://arxiv.org/abs/2008.02074)]
 
 ##### <a name="Reinforcement Learning">Reinforcement Learning</a> [[Back to TOC](#toc)]
 
